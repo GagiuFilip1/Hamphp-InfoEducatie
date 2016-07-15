@@ -1,0 +1,16 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Hamphp\Hamphp.Android\Hamphp.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hamphp\Hamphp.Android\Menu.cs">
+    <Files>
+      <File FileName="Hamphp\Hamphp.Android\MainActivity.cs" Line="114" Column="43" />
+      <File FileName="Hamphp\Hamphp.Android\GameLayer.cs" Line="402" Column="74" />
+      <File FileName="Hamphp\Hamphp.Android\packages.config" Line="1" Column="1" />
+      <File FileName="Hamphp\Hamphp.Android\Menu.cs" Line="11" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Hamphp.Android AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

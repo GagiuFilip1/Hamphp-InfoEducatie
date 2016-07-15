@@ -1,0 +1,12 @@
+D:\Hamphp\Hamphp\Hamphp.Common\bin\Release\Hamphp.Common.dll
+D:\Hamphp\Hamphp\Hamphp.Common\bin\Release\Hamphp.Common.pdb
+D:\Hamphp\Hamphp\Hamphp.Common\bin\Release\box2d.dll
+D:\Hamphp\Hamphp\Hamphp.Common\bin\Release\CocosSharp.dll
+D:\Hamphp\Hamphp\Hamphp.Common\bin\Release\MonoGame.Framework.dll
+D:\Hamphp\Hamphp\Hamphp.Common\obj\Release\Hamphp.Common.csprojResolveAssemblyReference.cache
+D:\Hamphp\Hamphp\Hamphp.Common\obj\Release\Hamphp.Common.dll
+D:\Hamphp\Hamphp\Hamphp.Common\obj\Release\Hamphp.Common.pdb
+D:\Hamphp\Hamphp\Hamphp.Common\obj\Release\Hamphp.Common.dll.mdb
+D:\Hamphp\Hamphp\Hamphp.Common\bin\Release\Hamphp.Common.dll.mdb
+D:\Hamphp\Hamphp\Hamphp.Common\obj\Release\Hamphp.Common.dll.mdb
+D:\Hamphp\Hamphp\Hamphp.Common\bin\Release\Hamphp.Common.dll.mdb
