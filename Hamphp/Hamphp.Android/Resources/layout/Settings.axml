@@ -10,6 +10,7 @@
     tools:gridSpec="1|8|#0093eeff|K:#ee8700ff:16,l:72,l:16,r|S:#83ee00ff:">
     <ImageView
         android:src="@drawable/crsword006"
+        android:scaleType="fitXY"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/imageView1" />
@@ -32,5 +33,5 @@
         android:id="@+id/BackBut"
         android:layout_width="100dp"
         android:layout_height="50dp"
-        android:layout_marginTop="525dp" />
+        android:layout_marginTop="480dp" />
 </RelativeLayout>

@@ -10,7 +10,7 @@ using Android.Widget;
 using Android.OS;
 using Hamphp.Android;
 using Android.Hardware;
-
+using Felipecsl.GifImageViewLibrary;
 using CocosSharp;
 
 namespace Hamphp.Android
@@ -57,4 +57,5 @@ namespace Hamphp.Android
         }
 
     }
+
 }
