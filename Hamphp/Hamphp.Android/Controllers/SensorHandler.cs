@@ -14,22 +14,28 @@ using Android.Hardware;
 namespace Hamphp.Android
 {
     [Activity(
-    Label = "BouncingGame.Android",
-    AlwaysRetainTaskState = true,
-    Icon = "@drawable/icon",
-    Theme = "@android:style/Theme.NoTitleBar",
-    ScreenOrientation = ScreenOrientation.Portrait,
-    LaunchMode = LaunchMode.SingleInstance)
-]
+             Label = "Hamph",
+             AlwaysRetainTaskState = true,
+             Icon = "@drawable/icon",
+             Theme = "@android:style/Theme.NoTitleBar",
+             ScreenOrientation = ScreenOrientation.Portrait,
+             LaunchMode = LaunchMode.SingleInstance,
+             MainLauncher = false)
+         // ConfigurationChanges = ConfigChanges.Orientation | ConfigChanges.ScreenSize | ConfigChanges.Keyboard | ConfigChanges.KeyboardHidden)
+         ]
     public class SensorHandler : Activity
     {    
         protected override void OnCreate(Bundle bundle)
         {
-            
-            
+
+            try
+            {
                 base.OnCreate(bundle);
                 SetContentView(Resource.Layout.Settings);
+            }
+            catch {
 
+            }
                 ImageButton Back = FindViewById<ImageButton>(Resource.Id.BackBut);
                 SeekBar seekBar = FindViewById<SeekBar>(Resource.Id.SensorBar);
 

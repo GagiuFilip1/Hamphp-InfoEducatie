@@ -48,22 +48,25 @@ namespace Hamphp.Android
 			public const int back = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int Background = 2130837505;
+			public const int background = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int crsword006 = 2130837506;
+			public const int background2 = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int Icon = 2130837507;
+			public const int crsword006 = 2130837507;
 			
 			// aapt resource value: 0x7f020004
-			public const int MyMovie = 2130837508;
+			public const int Icon = 2130837508;
 			
 			// aapt resource value: 0x7f020005
-			public const int Pcon = 2130837509;
+			public const int MyMovie = 2130837509;
 			
 			// aapt resource value: 0x7f020006
-			public const int pls = 2130837510;
+			public const int Pcon = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int pls = 2130837511;
 			
 			static Drawable()
 			{
@@ -78,20 +81,23 @@ namespace Hamphp.Android
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050007
-			public const int BackBut = 2131034119;
-			
-			// aapt resource value: 0x7f050005
-			public const int GameView = 2131034117;
+			// aapt resource value: 0x7f050008
+			public const int BackBut = 2131034120;
 			
 			// aapt resource value: 0x7f050006
-			public const int SensorBar = 2131034118;
+			public const int GameView = 2131034118;
 			
-			// aapt resource value: 0x7f050004
-			public const int accelerometer_text = 2131034116;
+			// aapt resource value: 0x7f050007
+			public const int SensorBar = 2131034119;
+			
+			// aapt resource value: 0x7f050005
+			public const int accelerometer_text = 2131034117;
 			
 			// aapt resource value: 0x7f050000
 			public const int content_layout = 2131034112;
+			
+			// aapt resource value: 0x7f050004
+			public const int highscorebutton = 2131034116;
 			
 			// aapt resource value: 0x7f050001
 			public const int imageView1 = 2131034113;

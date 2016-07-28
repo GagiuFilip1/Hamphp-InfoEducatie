@@ -65,12 +65,12 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MainActivity.cs" />
-    <Compile Include="Menu.cs" />
+    <Compile Include="Controllers\MainActivity.cs" />
+    <Compile Include="Controllers\Menu.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="GameLayer.cs" />
-    <Compile Include="SensorHandler.cs" />
+    <Compile Include="Controllers\GameLayer.cs" />
+    <Compile Include="Controllers\SensorHandler.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -162,25 +162,24 @@
     <AndroidResource Include="Resources\drawable-hdpi\pls.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-hdpi\Background.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable-mdpi\Background.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xhdpi\Background.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xxhdpi\Background.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xxxhdpi\Background.gif" />
-  </ItemGroup>
-  <ItemGroup>
     <AndroidResource Include="Resources\drawable-hdpi\MyMovie.mp4" />
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\Content\wall2.bmp" />
+    <AndroidAsset Include="Assets\Content\undo.png" />
+    <AndroidAsset Include="Assets\Content\ActionBar.png" />
+    <AndroidAsset Include="Assets\Content\shadow.bmp" />
+    <AndroidAsset Include="Assets\Content\shadow2.bmp" />
+    <AndroidResource Include="Resources\drawable-hdpi\background.jpg" />
+    <AndroidResource Include="Resources\drawable-mdpi\background.jpg" />
+    <AndroidResource Include="Resources\drawable-xhdpi\background.jpg" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\background.jpg" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\background.jpg" />
+    <AndroidResource Include="Resources\drawable-hdpi\background2.jpg" />
+    <AndroidResource Include="Resources\drawable-mdpi\background2.jpg" />
+    <AndroidResource Include="Resources\drawable-xhdpi\background2.jpg" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\background2.jpg" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\background2.jpg" />
     <Content Include="Resources\Map1.txt" />
   </ItemGroup>
 </Project>

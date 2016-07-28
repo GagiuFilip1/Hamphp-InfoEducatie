@@ -100,15 +100,13 @@ namespace Hamphp.Android
 				var contentSearchPaths = new List<string> () { "Fonts", "Sounds" };
 				CCSizeI viewSize = gameView.ViewSize;
 
-				int width = 900;
-				int height = 1260;
+				int width = 960;
+				int height = 1600;
 
-				// Set world dimensions
+		
 				gameView.DesignResolution = new CCSizeI (width, height);
 
-				// Determine whether to use the high or low def versions of our images
-				// Make sure the default texel to content size ratio is set correctly
-				// Of course you're free to have a finer set of image resolutions e.g (ld, hd, super-hd)
+		
 				if (width < viewSize.Width) {
 					contentSearchPaths.Add ("Images/Hd");
 					CCSprite.DefaultTexelToContentSizeRatio = 2.0f;
