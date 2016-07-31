@@ -95,8 +95,6 @@ D:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\Hamphp.Android.csprojResolveAssemblyRe
 D:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\Hamphp.dll.mdb
 F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\Hamphp.dll
 F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\Hamphp.pdb
-F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\Hamphp.Android.apk
-F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\Hamphp.Android-Signed.apk
 F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\CocosSharp.dll
 F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\Hamphp.Common.dll
 F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\Lidgren.Network.dll
@@ -109,7 +107,6 @@ F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\Lidgren.Network.xml
 F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\MonoGame.Framework.xml
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\Hamphp.dll
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\Hamphp.pdb
-F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\android\bin\Hamphp.Android.apk
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\layout\bridge.xml
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\layout\settings.xml
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\layout\main.xml
@@ -127,7 +124,6 @@ F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-xxxhdpi\pcon.png
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-hdpi\back.bmp
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-hdpi\crsword006.jpg
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-hdpi\pls.bmp
-F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-hdpi\mymovie.mp4
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-hdpi\background.jpg
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-mdpi\background.jpg
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-xhdpi\background.jpg
@@ -140,7 +136,23 @@ F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-xxhdpi\background2.jpg
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-xxxhdpi\background2.jpg
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\R.cs.flag
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\uploadflags.txt
+F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\layout\highscoretable.xml
+F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\HamphpAndroid.HamphpAndroid.apk
+F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\HamphpAndroid.HamphpAndroid-Signed.apk
+F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\android\bin\HamphpAndroid.HamphpAndroid.apk
+F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-hdpi\backgroundscore.jpg
+F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-mdpi\backgroundscore.jpg
+F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-xhdpi\backgroundscore.jpg
+F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-xxhdpi\backgroundscore.jpg
+F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-xxxhdpi\backgroundscore.jpg
+F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-hdpi\border.jpg
+F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-mdpi\border.jpg
+F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-xhdpi\border.jpg
+F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-xxhdpi\border.jpg
+F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\res\drawable-xxxhdpi\border.jpg
+F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\Hamphp.Android.csprojResolveAssemblyReference.cache
 F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\Hamphp.dll.mdb
+F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\Mono.Reflection.dll
 F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\Java.Interop.dll.mdb
 F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\Mono.Android.dll.mdb
 F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\mscorlib.dll.mdb
@@ -165,6 +177,5 @@ F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\android\assets\System.Xml.dll.mdb
-F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\Hamphp.Android.csprojResolveAssemblyReference.cache
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\Hamphp.dll.mdb
 F:\Hamphp\Hamphp\Hamphp.Android\bin\Debug\Hamphp.dll.mdb

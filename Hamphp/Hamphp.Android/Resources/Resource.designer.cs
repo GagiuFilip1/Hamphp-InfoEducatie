@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("Hamphp.Android.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("HamphpAndroid.Resource", IsApplication=true)]
 
-namespace Hamphp.Android
+namespace HamphpAndroid
 {
 	
 	
@@ -54,19 +54,22 @@ namespace Hamphp.Android
 			public const int background2 = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int crsword006 = 2130837507;
+			public const int backgroundscore = 2130837507;
 			
 			// aapt resource value: 0x7f020004
-			public const int Icon = 2130837508;
+			public const int border = 2130837508;
 			
 			// aapt resource value: 0x7f020005
-			public const int MyMovie = 2130837509;
+			public const int crsword006 = 2130837509;
 			
 			// aapt resource value: 0x7f020006
-			public const int Pcon = 2130837510;
+			public const int Icon = 2130837510;
 			
 			// aapt resource value: 0x7f020007
-			public const int pls = 2130837511;
+			public const int Pcon = 2130837511;
+			
+			// aapt resource value: 0x7f020008
+			public const int pls = 2130837512;
 			
 			static Drawable()
 			{
@@ -81,17 +84,23 @@ namespace Hamphp.Android
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050008
-			public const int BackBut = 2131034120;
+			// aapt resource value: 0x7f05000b
+			public const int BackBut = 2131034123;
+			
+			// aapt resource value: 0x7f050009
+			public const int GameView = 2131034121;
 			
 			// aapt resource value: 0x7f050006
-			public const int GameView = 2131034118;
+			public const int LevelsView = 2131034118;
+			
+			// aapt resource value: 0x7f05000a
+			public const int SensorBar = 2131034122;
 			
 			// aapt resource value: 0x7f050007
-			public const int SensorBar = 2131034119;
+			public const int accelerometer_text = 2131034119;
 			
-			// aapt resource value: 0x7f050005
-			public const int accelerometer_text = 2131034117;
+			// aapt resource value: 0x7f050008
+			public const int button1 = 2131034120;
 			
 			// aapt resource value: 0x7f050000
 			public const int content_layout = 2131034112;
@@ -107,6 +116,9 @@ namespace Hamphp.Android
 			
 			// aapt resource value: 0x7f050003
 			public const int setingsbutton = 2131034115;
+			
+			// aapt resource value: 0x7f050005
+			public const int textV = 2131034117;
 			
 			static Id()
 			{
@@ -125,10 +137,13 @@ namespace Hamphp.Android
 			public const int Bridge = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int Main = 2130903041;
+			public const int HighScoreTable = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int Settings = 2130903042;
+			public const int Main = 2130903042;
+			
+			// aapt resource value: 0x7f030003
+			public const int Settings = 2130903043;
 			
 			static Layout()
 			{

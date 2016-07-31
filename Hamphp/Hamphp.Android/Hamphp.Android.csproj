@@ -6,7 +6,7 @@
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <ProjectGuid>{7B3C2CED-9DF2-4E23-A950-B042AFF3CC17}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>Hamphp.Android</RootNamespace>
+    <RootNamespace>HamphpAndroid</RootNamespace>
     <AndroidApplication>True</AndroidApplication>
     <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
     <AndroidResgenClass>Resource</AndroidResgenClass>
@@ -39,6 +39,10 @@
     <ConsolePause>false</ConsolePause>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Mono.Reflection, Version=1.1.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Mono.Reflection.1.1.0.0\lib\Mono.Reflection.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Refractored.GifImageView, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Refractored.GifImageView.2.0.0\lib\monoandroid\Refractored.GifImageView.dll</HintPath>
       <Private>True</Private>
@@ -65,12 +69,13 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controllers\MainActivity.cs" />
-    <Compile Include="Controllers\Menu.cs" />
+    <Compile Include="_DataHandlers\HighScoreHandler.cs" />
+    <Compile Include="_GameConstructor\MainActivity.cs" />
+    <Compile Include="_Trigger\Menu.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Controllers\GameLayer.cs" />
-    <Compile Include="Controllers\SensorHandler.cs" />
+    <Compile Include="_GameConstructor\GameLayer.cs" />
+    <Compile Include="_DataHandlers\SensorHandler.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -81,6 +86,9 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\Settings.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\HighScoreTable.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
@@ -162,9 +170,6 @@
     <AndroidResource Include="Resources\drawable-hdpi\pls.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable-hdpi\MyMovie.mp4" />
-  </ItemGroup>
-  <ItemGroup>
     <AndroidAsset Include="Assets\Content\wall2.bmp" />
     <AndroidAsset Include="Assets\Content\undo.png" />
     <AndroidAsset Include="Assets\Content\ActionBar.png" />
@@ -180,6 +185,18 @@
     <AndroidResource Include="Resources\drawable-xhdpi\background2.jpg" />
     <AndroidResource Include="Resources\drawable-xxhdpi\background2.jpg" />
     <AndroidResource Include="Resources\drawable-xxxhdpi\background2.jpg" />
+    <AndroidResource Include="Resources\drawable-hdpi\backgroundscore.jpg" />
+    <AndroidResource Include="Resources\drawable-mdpi\backgroundscore.jpg" />
+    <AndroidResource Include="Resources\drawable-xhdpi\backgroundscore.jpg" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\backgroundscore.jpg" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\backgroundscore.jpg" />
+    <AndroidAsset Include="Assets\Content\home.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\border.jpg" />
+    <AndroidResource Include="Resources\drawable-mdpi\border.jpg" />
+    <AndroidResource Include="Resources\drawable-xhdpi\border.jpg" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\border.jpg" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\border.jpg" />
     <Content Include="Resources\Map1.txt" />
+    <EmbeddedResource Include="Resources\Maps\ReadMe.txt" />
   </ItemGroup>
 </Project>

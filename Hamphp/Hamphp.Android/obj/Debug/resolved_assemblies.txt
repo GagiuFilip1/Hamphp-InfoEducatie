@@ -1,6 +1,7 @@
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\android\assets\Hamphp.dll
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\android\assets\CocosSharp.dll
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\android\assets\Lidgren.Network.dll
+F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\android\assets\Mono.Reflection.dll
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\android\assets\MonoGame.Framework.dll
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\android\assets\Refractored.GifImageView.dll
 F:\Hamphp\Hamphp\Hamphp.Android\obj\Debug\android\assets\Hamphp.Common.dll

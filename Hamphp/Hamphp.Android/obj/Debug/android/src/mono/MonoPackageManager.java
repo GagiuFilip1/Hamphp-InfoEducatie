@@ -101,6 +101,7 @@ class MonoPackageManager_Resources {
 		"Hamphp.dll",
 		"CocosSharp.dll",
 		"Lidgren.Network.dll",
+		"Mono.Reflection.dll",
 		"MonoGame.Framework.dll",
 		"Refractored.GifImageView.dll",
 		"Hamphp.Common.dll",
